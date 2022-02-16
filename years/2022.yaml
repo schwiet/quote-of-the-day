@@ -1,3 +1,37 @@
+- date: 2022-01-01
+  author: Karl Popper
+  sourceName: The Logic of Scientific Discovery
+  sourceUrl: https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery
+  text: The main problem of philosophy is the critical analysis of the appeal to the authority of experience.
+  tags:
+    - science
+    - philosophy
+
+- date: 2022-01-02
+  author: Karl Popper
+  sourceName: The Logic of Scientific Discovery
+  sourceUrl: https://www.goodreads.com/book/show/61550.The_Logic_of_Scientific_Discovery
+  text: The game of science is, in principle, without end. He who decides one day that scientific statements do not call for any further test, and that they can be regarded as finally verified, retires from the game.
+  tags:
+    - science
+    - philosophy
+
+- date: 2022-01-03
+  author: Nassim Nicholas Taleb
+  sourceName: The Bed of Procrustes: Philosophical and Practical Aphorisms
+  sourceUrl: https://www.goodreads.com/book/show/9402297-the-bed-of-procrustes
+  text: In your prayers substitute “Protect us from evil” with “Protect us from those who improve things for a salary.”
+  tags:
+    - politics
+
+- date: 2022-01-04
+  author: Slavoj Žižek
+  sourceName: The Year of Dreaming Dangerously
+  sourceUrl: https://www.goodreads.com/book/show/15901602-the-year-of-dreaming-dangerously
+  text: The greatest threat to bureaucracy, the most daring conspiracy against its order, comes from those who actually try to solve the problems the bureaucracy is supposed to deal with.
+  tags:
+    - politics
+
 - date: 2022-02-16
   author: Marcus Aurelius
   sourceName: Meditations
@@ -5,3 +39,6 @@
   text: |
     The impediment to action advances action.
     What stands in the way becomes the way.
+  tags:
+    - Stoicism
+    - philosophy
