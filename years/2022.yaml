@@ -50,3 +50,21 @@
   text: Belonging to a society involves a paradoxical point at which each of us is ordered freely to embrace and make of it our own choice what is, in any case, imposed on us.
   tags:
     - politics
+
+- date: 2022-06-07
+  author: Carl Sagan
+  sourceName: The Varieties of Scientific Experience
+  sourceUrl: https://www.goodreads.com/book/show/61661.The_Varieties_of_Scientific_Experience
+  text: I believe it is true that humility is the only just response in a confrontation with the universe, but not a humility that prevents us from seeking the nature of the universe we are admiring... I would suggest that science is, at least in part, informed worship.
+  tags:
+    - science
+    - philosophy
+
+- date: 2022-06-08
+  author: Carl Sagan
+  sourceName: The Varieties of Scientific Experience
+  sourceUrl: https://www.goodreads.com/book/show/61661.The_Varieties_of_Scientific_Experience
+  text: ...one of the central point of special relativity is that there are no privileged frames of reference, that we are not in an important position or state of motion... the universe can be understood precisely if it is true that we do not have a special frame of reference.
+  tags:
+    - science
+    - philosophy
