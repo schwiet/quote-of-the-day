@@ -68,3 +68,15 @@
   tags:
     - science
     - philosophy
+
+- date: 2022-07-18
+  author: Marcus Aurelius
+  sourceName: Meditations
+  sourceUrl: https://www.goodreads.com/book/show/30659.Meditations
+  text: |
+    Ambition means tying your well-being to what other people say or do.
+    Self-indulgence means tying it to the things that happen to you.
+    Sanity means tying it to your own actions.
+  tags:
+    - Stoicism
+    - philosophy
